@@ -1,0 +1,18 @@
+
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="https://vignette.wikia.nocookie.net/r..." group-title="Canais Abertos",GLOBO
+https://redecanaistv.la/assistir-rede-globo-sp-online-24-horas-ao-vivo_5c0180d66.html
+ 
+ 
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="http://www.bastidoresdatv.com.br/wp-c..." group-title="Canais Abertos",RECOR TV
+http://srv3.zoeweb.tv:1935/zw315/zw31...
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="https://seeklogo.com/images/S/sbt-log..." group-title="Canais Abertos",SBT
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2 " tvg-name="ESPN 2 " tvg-logo="https://seeklogo.com/images/S/sbt-log..." group-title="Canais Abertos",ESPN 2
+https://redecanaistv.la/assistir-espn-2-online-24-horas-ao-vivo_ba5c8d411.html
+
